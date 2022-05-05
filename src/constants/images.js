@@ -21,6 +21,7 @@ import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 import gusteaus from "../assets/gusteaus.png";
+import gusteaus10 from "../assets/gusteaus10.png";
 
 export default {
 	bg,
@@ -46,4 +47,5 @@ export default {
 	quote,
 	gericht,
 	gusteaus,
+	gusteaus10,
 };
