@@ -8,7 +8,7 @@ import {
 	Gallery,
 	Header,
 	Intro,
-	Laurels,
+	Awards,
 	SpecialMenu,
 } from "./container";
 import { Navbar } from "./components";
@@ -22,7 +22,7 @@ const App = () => (
 		<SpecialMenu />
 		<Chef />
 		<Intro />
-		<Laurels />
+		<Awards />
 		<Gallery />
 		<FindUs />
 		<Footer />
