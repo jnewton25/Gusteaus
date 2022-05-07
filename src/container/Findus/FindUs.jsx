@@ -14,7 +14,7 @@ const FindUs = () => (
 			</h1>
 			<div className="app__wrapper-content">
 				<p className="p__opensans" style={{ marginBottom: "3rem" }}>
-					20 Rue Saint-Martin, 75004 Paris, France
+					189 Rue de l'Université, 75007 Paris, France
 				</p>
 				<p
 					className="p__cormorant"
@@ -24,7 +24,7 @@ const FindUs = () => (
 				</p>
 				<p className="p__opensans">Open Everday</p>
 				<p className="p__opensans">Lunch 12 pm - 2 pm</p>
-				<p className="p__opensans">Dinner 7.30 pm - 9:30 pm</p>
+				<p className="p__opensans">Dinner 7:30 pm - 9:30 pm</p>
 			</div>
 			<button className="custom__button" style={{ marginTop: "2rem" }}>
 				Visit Us
