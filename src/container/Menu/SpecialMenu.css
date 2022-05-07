@@ -20,7 +20,7 @@
 .app__specialMenu-menu_heading {
 	font-family: var(--font-base);
 	font-weight: 600;
-	font-size: 45px;
+	font-size: 40px;
 	line-height: 58.5px;
 	letter-spacing: 0.04em;
 	color: var(--color-white);
@@ -52,10 +52,10 @@
 
 @media screen and (max-width: 2000px) {
 	.app__specialMenu-menu_img {
-		width: 550px;
+		width: 400px;
 	}
 	.app__specialMenu-menu_img img {
-		height: 800px;
+		height: 700px;
 	}
 }
 

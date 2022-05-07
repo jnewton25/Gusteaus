@@ -83,27 +83,27 @@ const specials = [
 	{
 		title: "Remy's Soup",
 		price: "$28",
-		tags: "The Hors D'Oeuvres | Prepared by: Chef Remy",
+		tags: "Hors D'Oeuvre | Chef Remy",
 	},
 	{
 		title: "Quiche Lorraine",
 		price: "$33",
-		tags: "The Mains | Prepared by: Chef Colette",
+		tags: "Main | Chef Colette",
 	},
 	{
 		title: "Marinated Smoke Salmon",
 		price: "$24",
-		tags: "The Hors D'Oeuvres | Prepared by: Chef Horst",
+		tags: "Hors D'Oeuvre | Chef Horst",
 	},
 	{
 		title: "Home-made Cassoulet",
 		price: "$38",
-		tags: "The Mains | Prepared by: Chef Lalo",
+		tags: "Main | Chef Lalo",
 	},
 	{
 		title: "Organic Tigre Calf's Head",
 		price: "$34",
-		tags: "The Mains | Prepared by: Chef Larousse",
+		tags: "Main | Chef Larousse",
 	},
 ];
 
