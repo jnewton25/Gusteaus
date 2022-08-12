@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Gusteaus/static/css/main.af00980d.css",
+    "main.js": "/Gusteaus/static/js/main.6068f999.js",
+    "static/media/meal.mp4": "/Gusteaus/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Gusteaus/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/chef.png": "/Gusteaus/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/Gusteaus/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/findus.png": "/Gusteaus/static/media/findus.8ef7f94b5fe52435c25e.png",
+    "static/media/welcome.png": "/Gusteaus/static/media/welcome.2d1403ce5b4b1b088113.png",
+    "static/media/laurels.png": "/Gusteaus/static/media/laurels.6420196cd5af0de88e30.png",
+    "static/media/gusteaus10.png": "/Gusteaus/static/media/gusteaus10.2f831c6c438bc126fe20.png",
+    "static/media/gallery03.png": "/Gusteaus/static/media/gallery03.0952ab240949db079cf0.png",
+    "static/media/chef2.png": "/Gusteaus/static/media/chef2.820fd391a591c478588c.png",
+    "static/media/gallery04.png": "/Gusteaus/static/media/gallery04.867d9b6c718e3fbe34a1.png",
+    "static/media/gallery02.png": "/Gusteaus/static/media/gallery02.e0fa3cc55151dafd5249.png",
+    "static/media/gallery01.png": "/Gusteaus/static/media/gallery01.a9bed02621504a4eb099.png",
+    "static/media/knife.png": "/Gusteaus/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Gusteaus/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gusteaus.png": "/Gusteaus/static/media/gusteaus.7ac7f91359ea681c74eb.png",
+    "static/media/G.png": "/Gusteaus/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/Gusteaus/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Gusteaus/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Gusteaus/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Gusteaus/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/signgusteau.png": "/Gusteaus/static/media/signgusteau.9a713efc9a6c2a1e7a3a.png",
+    "static/media/award03.png": "/Gusteaus/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Gusteaus/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Gusteaus/index.html",
+    "static/media/spoon.svg": "/Gusteaus/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.af00980d.css.map": "/Gusteaus/static/css/main.af00980d.css.map",
+    "main.6068f999.js.map": "/Gusteaus/static/js/main.6068f999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af00980d.css",
+    "static/js/main.6068f999.js"
+  ]
+}
