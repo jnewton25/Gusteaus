@@ -1,11 +1,16 @@
-# Gusteaus
+# Gusteaus - Ratatouille Themed Restaurant Site
 
-# Getting Started with Create React App
+Foundation of React structure was learned while building this Ratatouille themed site where I developed a photo gallery, mapped out menu, video player, and a contact section
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Demo](https://jnewton25.github.io/Gusteaus/).
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+-   React.js
+-   JavaScript
+-   HTML
+-   CSS
 
-### `npm start`
+## Preview
+
+![gusteaus-preview](https://user-images.githubusercontent.com/28316960/216685229-a17ea5e4-77d8-417d-bf68-25960bf051e4.png)
